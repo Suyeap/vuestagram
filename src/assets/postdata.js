@@ -1,0 +1,32 @@
+export default [
+    {
+      name: "dongdong_is_busy",
+      userImage: "https://placeimg.com/100/100/arch",
+      postImage: "https://placeimg.com/640/480/arch",
+      likes: 87,
+      date: "Feb 16",
+      liked: false,
+      content: "어늘따라 집중이 안댄다..🐻‍",
+      filter: "perpetua",
+    },
+    {
+      name: "day0ff_dontCall",
+      userImage: "https://placeimg.com/200/200/people",
+      postImage: "https://placeimg.com/640/480/people",
+      likes: 20,
+      date: "Feb 16",
+      liked: false,
+      content: "오늘 휴가지롱^~^ ",
+      filter: "clarendon",
+    },
+    {
+      name: "kittie_o_O",
+      userImage: "https://placeimg.com/100/100/animals",
+      postImage: "https://placeimg.com/640/480/animals",
+      likes: 49,
+      date: "Feb 16",
+      liked: false,
+      content: "울집 고양이가 다뿌순다",
+      filter: "lofi",
+    },
+  ]
